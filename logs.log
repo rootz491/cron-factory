@@ -1,0 +1,269 @@
+2023-06-02T23:51:27.859Z info: Server running on port 3200
+2023-06-02T23:51:27.897Z info: Connected to MongoDB
+2023-06-02T23:51:27.917Z info: No jobs to schedule
+2023-06-02T23:53:43.704Z info: Server running on port 3200
+2023-06-02T23:53:43.729Z info: Connected to MongoDB
+2023-06-02T23:53:43.743Z info: No jobs to schedule
+2023-06-02T23:53:47.332Z info: ::ffff:127.0.0.1 - - [02/Jun/2023:23:53:47 +0000] "GET /jobs HTTP/1.1" 401 12 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:00:58.099Z info: Server running on port 3200
+2023-06-03T00:00:58.130Z info: Connected to MongoDB
+2023-06-03T00:00:58.144Z info: No jobs to schedule
+2023-06-03T00:01:44.178Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:01:44 +0000] "POST /jobs HTTP/1.1" 401 12 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:02:39.296Z info: Server running on port 3200
+2023-06-03T00:02:39.329Z info: Connected to MongoDB
+2023-06-03T00:02:39.345Z info: No jobs to schedule
+2023-06-03T00:02:40.449Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:02:40 +0000] "POST /jobs HTTP/1.1" 401 12 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:03:17.347Z error: Failed to create job: scheduleJob is not defined
+2023-06-03T00:03:17.349Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:03:17 +0000] "POST /jobs HTTP/1.1" 500 21 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:06:05.483Z info: Server running on port 3200
+2023-06-03T00:06:05.502Z info: Connected to MongoDB
+2023-06-03T00:06:05.519Z info: No jobs to schedule
+2023-06-03T00:06:12.309Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:06:12 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:06:15.318Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:06:30.340Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:06:45.360Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:07:00.379Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:07:15.401Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:07:30.426Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:07:45.447Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:08:00.468Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:08:15.484Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:08:30.501Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:08:45.521Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:09:00.542Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:09:15.562Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:09:23.903Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:09:23 +0000] "GET /jobs HTTP/1.1" 200 282 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:09:30.584Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:09:45.602Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:09:53.032Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:09:53 +0000] "DELETE /jobs HTTP/1.1" 404 146 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:10:00.660Z info: Server running on port 3200
+2023-06-03T00:10:00.681Z info: Connected to MongoDB
+2023-06-03T00:10:09.521Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:10:09 +0000] "GET /jobs HTTP/1.1" 200 282 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:10:15.719Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:10:30.736Z error: Failed to trigger job 'Bot Login':
+2023-06-03T00:10:43.490Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:10:43 +0000] "DELETE /jobs HTTP/1.1" 200 38 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:10:51.897Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:10:51 +0000] "GET /jobs HTTP/1.1" 200 2 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:11:41.692Z info: Server running on port 3200
+2023-06-03T00:11:41.711Z info: Connected to MongoDB
+2023-06-03T00:11:41.725Z info: No jobs to schedule
+2023-06-03T00:11:44.591Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:11:44 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:11:46.888Z info: Job 'Bot Login' triggered successfully!
+
+2023-06-03T00:12:01.833Z info: Job 'Bot Login' triggered successfully!
+
+2023-06-03T00:12:05.283Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:12:05 +0000] "GET /jobs HTTP/1.1" 200 269 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:12:16.886Z info: Job 'Bot Login' triggered successfully!
+
+2023-06-03T00:12:21.548Z info: Server running on port 3200
+2023-06-03T00:12:21.568Z info: Connected to MongoDB
+2023-06-03T00:12:31.841Z info: Job 'Bot Login' triggered successfully!
+
+2023-06-03T00:12:46.871Z info: Job 'Bot Login' triggered successfully!
+
+2023-06-03T00:12:50.714Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:12:50 +0000] "DELETE /jobs HTTP/1.1" 200 38 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:13:16.186Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:13:16 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:13:21.366Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:13:25.481Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:13:30.484Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:13:36.454Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:13:40.549Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:13:45.564Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:13:51.487Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:13:55.602Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:14:00.519Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:14:06.386Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:14:10.542Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:14:15.542Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:14:19.340Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:14:19 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:14:21.509Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:14:25.565Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:14:30.569Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:14:31.561Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:14:35.588Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:14:40.588Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:14:46.596Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:14:46.597Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:14:50.694Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:14:54.625Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:14:54 +0000] "GET /jobs HTTP/1.1" 200 459 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-03T00:14:55.614Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:15:01.649Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:15:01.650Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:15:05.644Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:15:10.631Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:15:16.601Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:15:16.602Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:15:20.697Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:15:25.665Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:15:31.615Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:15:31.619Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:15:35.685Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:15:40.685Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:15:46.557Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:15:46.590Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:15:50.802Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:15:55.707Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:16:01.637Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:16:01.641Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:16:05.754Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:16:10.769Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:16:16.611Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:16:16.626Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:16:20.750Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:16:25.753Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:16:31.699Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:16:31.701Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:16:35.774Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:16:40.876Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:16:46.815Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:16:46.816Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:16:50.910Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:16:55.826Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:17:01.765Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:17:01.767Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:17:05.822Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:17:10.878Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:17:16.818Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:17:16.820Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:17:20.846Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:17:25.932Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:17:31.708Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:17:31.718Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:17:35.868Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:17:40.882Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:17:46.829Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:17:46.832Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:17:50.894Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:17:55.937Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:18:00.954Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:18:01.841Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:18:05.971Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:18:10.906Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:18:16.884Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:18:16.889Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:18:20.923Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:18:25.939Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:18:31.876Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:18:31.877Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:18:35.947Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:18:40.949Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:18:46.931Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:18:46.932Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:18:50.986Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:18:56.043Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:19:01.036Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:19:01.984Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:19:05.989Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:19:10.991Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:19:17.037Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:19:17.039Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:19:21.017Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:19:26.017Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:19:31.956Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:19:31.958Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:19:36.088Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:19:41.037Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:19:47.013Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:19:47.014Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:19:51.060Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:19:56.153Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:20:01.935Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:20:01.935Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:20:06.083Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:20:11.085Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:20:17.042Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:20:17.043Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:20:21.103Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:20:26.105Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:20:31.986Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:20:31.991Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:20:36.192Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:20:41.132Z error: Failed to trigger job 'HELLO WORLD':
+2023-06-03T00:20:47.091Z info: Job 'HELLO WORLD' triggered successfully!
+
+2023-06-03T00:20:47.094Z info: Job 'Bot Login FAILED ATTEMPT' triggered successfully!
+ Either email or phone is required
+2023-06-03T00:20:50.379Z info: ::ffff:127.0.0.1 - - [03/Jun/2023:00:20:50 +0000] "DELETE /jobs HTTP/1.1" 200 38 "-" "Thunder Client (https://www.thunderclient.com)"
