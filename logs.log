@@ -405,3 +405,22 @@
 2023-06-05T16:11:20.276Z error: Failed to trigger job 'HELLO WORLD 3':
 2023-06-05T16:11:28.444Z info: ::ffff:127.0.0.1 - - [05/Jun/2023:16:11:28 +0000] "DELETE /jobs HTTP/1.1" 200 38 "-" "Thunder Client (https://www.thunderclient.com)"
 2023-06-05T16:12:18.174Z info: ::ffff:127.0.0.1 - - [05/Jun/2023:16:12:18 +0000] "GET /jobs HTTP/1.1" 200 2 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-05T16:15:59.287Z info: Server running on port 3200
+2023-06-05T16:15:59.351Z info: Connected to MongoDB
+2023-06-05T16:15:59.374Z info: No jobs to schedule
+2023-06-05T16:16:47.199Z info: Server running on port 3200
+2023-06-05T16:16:47.246Z info: Connected to MongoDB
+2023-06-05T16:16:47.261Z info: No jobs to schedule
+2023-06-05T16:17:03.122Z info: ::ffff:127.0.0.1 - - [05/Jun/2023:16:17:03 +0000] "GET /jobs HTTP/1.1" 200 2 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-05T16:19:32.908Z info: Server running on port 3200
+2023-06-05T16:19:32.934Z info: Connected to MongoDB
+2023-06-05T16:19:32.957Z info: No jobs to schedule
+2023-06-05T16:19:36.945Z info: ::ffff:127.0.0.1 - - [05/Jun/2023:16:19:36 +0000] "GET /jobs HTTP/1.1" 200 2 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-05T16:20:09.729Z info: Server running on port 3200
+2023-06-05T16:20:09.750Z info: Connected to MongoDB
+2023-06-05T16:20:09.769Z info: No jobs to schedule
+2023-06-05T16:20:15.776Z info: ::ffff:127.0.0.1 - - [05/Jun/2023:16:20:15 +0000] "GET /jobs HTTP/1.1" 200 2 "-" "Thunder Client (https://www.thunderclient.com)"
+2023-06-05T16:20:44.385Z info: Server running on port 3200
+2023-06-05T16:20:44.407Z info: Connected to MongoDB
+2023-06-05T16:20:44.435Z info: No jobs to schedule
+2023-06-05T16:20:48.474Z info: ::ffff:127.0.0.1 - - [05/Jun/2023:16:20:48 +0000] "GET /jobs HTTP/1.1" 200 2 "-" "Thunder Client (https://www.thunderclient.com)"

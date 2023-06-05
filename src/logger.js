@@ -37,19 +37,19 @@ const logger = createLogger({
 			  })
 			: null,
 		// https://github.com/winstonjs/winston/blob/master/docs/transports.md#http-transport
-		LOG_SERVER_HOST && LOG_SERVER_SECRET_HEADER && LOG_SERVER_API_KEY
-			? new winston.transports.Http({
-					level: "info",
-					format: combine(timestamp(), logFormat),
-					host: LOG_SERVER_HOST,
-					port: LOG_SERVER_PORT,
-					path: LOG_SERVER_API_ENDPOINT,
-					headers: {
-						"Content-Type": "application/json",
-						[LOG_SERVER_SECRET_HEADER]: LOG_SERVER_API_KEY,
-					},
-			  })
-			: null,
+		new winston.transports.Http({
+			level: "info",
+			format: combine(timestamp(), logFormat),
+			host: LOG_SERVER_HOST,
+			port: LOG_SERVER_PORT,
+			path: LOG_SERVER_API_ENDPOINT,
+			headers: {
+				"Content-Type": "application/json",
+				[LOG_SERVER_SECRET_HEADER]: LOG_SERVER_API_KEY,
+			},
+			handleExceptions: true,
+			handleRejections: true,
+		}),
 	].filter((transport) => transport !== null),
 });
 
