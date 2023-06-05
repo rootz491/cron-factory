@@ -8,7 +8,7 @@ let scheduledJobs = [];
 const scheduleJob = (job) => {
 	const { name, type, interval, apiEndpoint, method, headers } = job;
 
-	if (!name || !type || !interval || !apiEndpoint || !method || !headers) {
+	if (!name || !type || !apiEndpoint || !method || !headers) {
 		logger.error("Invalid job data", job);
 		return false;
 	}
@@ -23,7 +23,7 @@ const scheduleJob = (job) => {
 		return false;
 	}
 
-	const scheduledJob = cron.schedule(schedule, () => {
+	const job = cron.schedule(schedule, () => {
 		axios({
 			method,
 			url: apiEndpoint,
@@ -37,7 +37,10 @@ const scheduleJob = (job) => {
 			});
 	});
 
-	scheduledJobs.push(scheduledJob);
+	scheduledJobs.push({
+		name,
+		job,
+	});
 
 	return true;
 };
@@ -59,13 +62,23 @@ const scheduleJobs = () => {
 };
 
 const stopAllJobs = () => {
-	scheduledJobs.forEach((job) => {
-		job.stop();
+	scheduledJobs.forEach((item) => {
+		item?.job?.stop();
 	});
+};
+
+const stopJobByName = (name) => {
+	const jobObj = scheduledJobs.find((job) => job.name === name);
+	if (jobObj) {
+		jobObj.job.stop();
+		return true;
+	}
+	return false;
 };
 
 module.exports = {
 	scheduleJob,
 	scheduleJobs,
 	stopAllJobs,
+	stopJobByName,
 };

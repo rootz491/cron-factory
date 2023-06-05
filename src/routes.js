@@ -2,7 +2,7 @@ const express = require("express");
 const { apiKeyCheck } = require("./middleware");
 const { createJob, getAllJobs, Job } = require("./job.model");
 const logger = require("./logger");
-const { scheduleJob, stopAllJobs } = require("./cron");
+const { scheduleJob, stopAllJobs, stopJobByName } = require("./cron");
 
 const router = express.Router();
 
@@ -70,6 +70,26 @@ router.delete("/jobs", apiKeyCheck, async (req, res) => {
 		res.json(jobs);
 	} catch (error) {
 		logger.error("Failed to delete jobs:", error);
+		res.status(500).send("Internal Server Error");
+	}
+});
+
+router.delete("/jobs/:name", apiKeyCheck, async (req, res) => {
+	try {
+		const { name } = req.params;
+		const isDeleted = stopJobByName(name);
+
+		if (!isDeleted) {
+			return res.status(404).send("Job not found");
+		} else {
+			const job = await Job.deleteOne({ name }, { new: true }).exec();
+			res.json({
+				message: "Job deleted successfully",
+				job,
+			});
+		}
+	} catch (error) {
+		logger.error("Failed to delete job:", error);
 		res.status(500).send("Internal Server Error");
 	}
 });
