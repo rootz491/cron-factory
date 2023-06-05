@@ -47,3 +47,12 @@
 4. DELETE /jobs/:name
 
 - Delete a job by name
+
+### Known Issues
+
+- HTTP Logs are not being sent to the Logger server API.
+  It's a problem with winston logger's HTTP Transport.
+
+  - https://github.com/winstonjs/winston/issues/1160
+
+  - Possible Solution: Create a custom transport for HTTP requests.
