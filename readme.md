@@ -43,3 +43,7 @@
 3. DELETE /jobs
 
 - Delete all jobs
+
+4. DELETE /jobs/:name
+
+- Delete a job by name

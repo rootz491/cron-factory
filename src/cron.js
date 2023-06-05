@@ -13,6 +13,8 @@ const scheduleJob = (job) => {
 		return false;
 	}
 
+	const { body } = headers;
+
 	let schedule;
 	if (type === "interval") {
 		schedule = interval;
@@ -23,11 +25,11 @@ const scheduleJob = (job) => {
 		return false;
 	}
 
-	const job = cron.schedule(schedule, () => {
-		axios({
+	const jobObj = cron.schedule(schedule, () => {
+		axios(apiEndpoint, {
 			method,
-			url: apiEndpoint,
 			headers,
+			data: body,
 		})
 			.then((response) => {
 				logger.info(`Job '${name}' triggered successfully!\n`, response.data);
@@ -39,7 +41,7 @@ const scheduleJob = (job) => {
 
 	scheduledJobs.push({
 		name,
-		job,
+		job: jobObj,
 	});
 
 	return true;
