@@ -101,6 +101,7 @@ const stopAllJobs = async () => {
 	scheduledJobs.forEach((item) => {
 		item?.job?.stop();
 	});
+	scheduledJobs = [];
 };
 
 const stopJobByName = (name) => {
