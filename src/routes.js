@@ -1,14 +1,19 @@
 const express = require("express");
 const { apiKeyCheck } = require("./middleware");
-const { createJob, getAllJobs, Job } = require("./job.model");
+const { createJob, getAllJobs, Job, toggleJob } = require("./job.model");
 const logger = require("./logger");
-const { scheduleJob, stopAllJobs, stopJobByName } = require("./cron");
+const {
+	scheduleJob,
+	stopJobByName,
+	stopAllJobs,
+	startJobByName,
+} = require("./cron");
 
 const router = express.Router();
 
 // Endpoint to create a new job
 router.post("/jobs", apiKeyCheck, async (req, res) => {
-	const { name, type, interval, apiEndpoint, method, headers } = req.body;
+	const { name, type, interval, apiEndpoint, method, headers, body } = req.body;
 
 	try {
 		// Check if the job name is unique
@@ -24,6 +29,7 @@ router.post("/jobs", apiKeyCheck, async (req, res) => {
 			apiEndpoint,
 			method,
 			headers,
+			body,
 		});
 
 		if (!isJobScheduled)
@@ -39,6 +45,7 @@ router.post("/jobs", apiKeyCheck, async (req, res) => {
 			apiEndpoint,
 			method,
 			headers,
+			body,
 		});
 
 		if (res) {
@@ -65,7 +72,7 @@ router.delete("/jobs", apiKeyCheck, async (req, res) => {
 	try {
 		const jobs = await Job.deleteMany();
 
-		await stopAllJobs();
+		stopAllJobs();
 
 		res.json(jobs);
 	} catch (error) {
@@ -90,6 +97,19 @@ router.delete("/jobs/:name", apiKeyCheck, async (req, res) => {
 		}
 	} catch (error) {
 		logger.error("Failed to delete job:", error);
+		res.status(500).send("Internal Server Error");
+	}
+});
+
+router.patch("/jobs/:name", apiKeyCheck, async (req, res) => {
+	try {
+		const { name } = req.params;
+		const { status } = req.body;
+
+		await toggleJob({ jobName: name, status });
+
+	} catch (error) {
+		logger.error("Failed to update job:", error);
 		res.status(500).send("Internal Server Error");
 	}
 });
