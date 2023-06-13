@@ -8,6 +8,7 @@ const {
 	stopAllJobs,
 	startJobByName,
 } = require("./cron");
+const { transformPayload } = require("./helper");
 
 const router = express.Router();
 
@@ -29,7 +30,7 @@ router.post("/jobs", apiKeyCheck, async (req, res) => {
 			apiEndpoint,
 			method,
 			headers,
-			payload,
+			payload: transformPayload(payload),
 		});
 
 		if (!isJobScheduled)
@@ -45,7 +46,7 @@ router.post("/jobs", apiKeyCheck, async (req, res) => {
 			apiEndpoint,
 			method,
 			headers,
-			payload,
+			payload: transformPayload(payload),
 		});
 
 		if (res) {

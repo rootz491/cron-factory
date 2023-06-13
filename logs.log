@@ -1572,3 +1572,30 @@
 2023-06-13T16:32:56.703Z info: Job 'test 1' stopped successfully
 2023-06-13T16:32:56.706Z info: ::1 - - [13/Jun/2023:16:32:56 +0000] "PATCH /jobs/test%201 HTTP/1.1" 200 304 "-" "PostmanRuntime/7.32.2"
 2023-06-13T16:33:04.093Z info: ::1 - - [13/Jun/2023:16:33:04 +0000] "GET /jobs HTTP/1.1" 200 520 "-" "PostmanRuntime/7.32.2"
+2023-06-13T17:31:39.068Z info: Server running on port 3200
+2023-06-13T17:31:39.710Z info: Connected to MongoDB
+2023-06-13T17:31:39.711Z info: Scheduling jobs
+2023-06-13T17:34:22.326Z info: Server running on port 3200
+2023-06-13T17:34:22.963Z info: Connected to MongoDB
+2023-06-13T17:34:22.964Z info: Scheduling jobs
+2023-06-13T17:34:23.535Z info: Server running on port 3200
+2023-06-13T17:34:24.200Z info: Connected to MongoDB
+2023-06-13T17:34:24.201Z info: Scheduling jobs
+2023-06-13T17:34:39.956Z info: Server running on port 3200
+2023-06-13T17:34:40.560Z info: Connected to MongoDB
+2023-06-13T17:34:40.561Z info: Scheduling jobs
+2023-06-13T17:34:41.612Z info: Server running on port 3200
+2023-06-13T17:34:42.222Z info: Connected to MongoDB
+2023-06-13T17:34:42.223Z info: Scheduling jobs
+2023-06-13T17:34:56.269Z info: Server running on port 3200
+2023-06-13T17:34:56.879Z info: Connected to MongoDB
+2023-06-13T17:34:56.880Z info: Scheduling jobs
+2023-06-13T17:35:00.225Z info: Server running on port 3200
+2023-06-13T17:35:00.836Z info: Connected to MongoDB
+2023-06-13T17:35:00.837Z info: Scheduling jobs
+2023-06-13T17:35:01.539Z info: Server running on port 3200
+2023-06-13T17:35:02.195Z info: Connected to MongoDB
+2023-06-13T17:35:02.196Z info: Scheduling jobs
+2023-06-13T17:35:05.456Z info: Server running on port 3200
+2023-06-13T17:35:06.082Z info: Connected to MongoDB
+2023-06-13T17:35:06.084Z info: Scheduling jobs
