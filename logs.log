@@ -3499,3 +3499,1322 @@
 2023-06-13T21:45:20.742Z info: Job 'test 1123' triggered successfully!
 2023-06-13T21:45:40.659Z info: Job 'test 1123' triggered successfully!
 2023-06-13T21:46:00.686Z info: Job 'test 1123' triggered successfully!
+2023-06-13T21:46:20.715Z info: Job 'test 1123' triggered successfully!
+2023-06-13T21:46:40.732Z info: Job 'test 1123' triggered successfully!
+2023-06-13T21:47:00.821Z info: Job 'test 1123' triggered successfully!
+2023-06-13T21:47:20.840Z info: Job 'test 1123' triggered successfully!
+2023-06-13T21:47:29.641Z info: Stopping all jobs
+2023-06-13T21:47:29.646Z info: ::1 - - [13/Jun/2023:21:47:29 +0000] "DELETE /jobs HTTP/1.1" 200 38 "-" "PostmanRuntime/7.32.2"
+2023-06-13T22:34:02.211Z info: Server running on port 3200
+2023-06-13T22:34:02.243Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:02.244Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:02.255Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:02.256Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:02.258Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:02.259Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:02.261Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:02.262Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:02.265Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:02.265Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:02.267Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:02.268Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:02.270Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:02.270Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:02.272Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:02.274Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:02.820Z info: Connected to MongoDB
+2023-06-13T22:34:02.820Z info: Scheduling jobs
+2023-06-13T22:34:03.685Z info: No jobs to schedule
+2023-06-13T22:34:03.975Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:03.976Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:03.977Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:03.977Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:03.979Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:03.980Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:03.981Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:03.981Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:03.985Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:03.986Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:03.987Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:03.987Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:03.988Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:03.988Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:03.990Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:03.990Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.116Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:05.117Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:05.118Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:05.118Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:05.120Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.120Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:05.121Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.121Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:05.122Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.122Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:05.123Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.123Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:05.124Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.124Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.124Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.125Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.698Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:05.698Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:05.699Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:05.699Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:05.701Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.702Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:05.702Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.703Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:05.703Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.704Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:05.704Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.705Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:05.706Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.706Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.706Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:05.706Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.285Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:06.285Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:06.286Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:06.286Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:06.288Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.288Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:06.289Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.289Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:06.290Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.290Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:06.291Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.291Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:06.292Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.292Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.292Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.292Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.874Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:06.874Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:06.875Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:06.875Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:06.877Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.878Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:06.879Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.879Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:06.880Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.880Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:06.880Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.881Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:06.882Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.882Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.882Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:06.882Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:07.461Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:07.461Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:07.461Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:07.462Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:07.464Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:07.464Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:07.465Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:07.465Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:07.466Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:07.466Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:07.467Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:07.467Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:07.468Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:07.468Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:07.468Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:07.468Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.049Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:08.050Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:08.051Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:08.052Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:08.059Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.059Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:08.061Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.061Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:08.062Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.063Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:08.064Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.065Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:08.066Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.066Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.066Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.066Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.639Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:08.640Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:08.640Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:08.641Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:08.642Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.642Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:08.643Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.643Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:08.644Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.644Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:08.645Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.645Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:08.646Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.646Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.646Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:08.646Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.226Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:09.227Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:09.229Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:09.229Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:09.232Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.233Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:09.233Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.234Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:09.234Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.234Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:09.235Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.235Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:09.236Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.236Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.236Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.236Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.820Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:09.821Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:09.823Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:09.825Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:09.828Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.829Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:09.831Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.831Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:09.832Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.833Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:09.834Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.834Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:09.836Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.836Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.836Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:09.837Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:10.416Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:10.417Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:10.417Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:10.417Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:10.420Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:10.420Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:10.421Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:10.421Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:10.422Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:10.422Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:10.423Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:10.423Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:10.424Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:10.424Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:10.424Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:10.424Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.004Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:11.004Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:11.004Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:11.005Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:11.007Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.008Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:11.008Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.009Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:11.009Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.009Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:11.010Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.010Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:11.011Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.011Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.011Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.012Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.591Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:11.592Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:11.593Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:11.594Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:11.597Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.597Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:11.598Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.598Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:11.599Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.599Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:11.600Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.600Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:11.601Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.601Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.601Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:11.602Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.185Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:12.186Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:12.188Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:12.188Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:12.191Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.191Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:12.192Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.192Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:12.193Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.193Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:12.194Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.194Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:12.195Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.195Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.195Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.195Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.787Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:12.787Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:12.788Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:12.789Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:12.790Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.791Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:12.791Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.791Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:12.792Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.792Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:12.793Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.793Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:12.794Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.794Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.794Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:12.794Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.376Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:13.377Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:13.377Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:13.377Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:13.379Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.380Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:13.380Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.380Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:13.381Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.381Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:13.382Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.382Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:13.382Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.383Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.383Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.383Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.961Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:13.962Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:13.962Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:13.962Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:13.965Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.965Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:13.966Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.966Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:13.967Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.967Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:13.967Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.967Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:13.969Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.969Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.969Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:13.969Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:14.547Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:14.548Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:14.548Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:14.548Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:14.550Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:14.550Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:14.551Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:14.551Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:14.551Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:14.551Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:14.552Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:14.552Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:14.553Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:14.553Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:14.553Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:14.554Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.137Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:15.138Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:15.138Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:15.139Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:15.140Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.141Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:15.141Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.141Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:15.142Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.142Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:15.143Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.144Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:15.145Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.145Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.145Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.145Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.729Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:15.730Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:15.731Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:15.732Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:15.736Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.736Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:15.737Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.738Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:15.739Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.740Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:15.742Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.742Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:15.743Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.744Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.744Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:15.744Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.349Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:16.350Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:16.351Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:16.351Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:16.355Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.356Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:16.357Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.357Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:16.358Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.359Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:16.360Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.360Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:16.362Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.362Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.362Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.362Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.938Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:16.938Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:16.938Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:16.938Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:16.941Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.941Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:16.942Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.942Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:16.942Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.943Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:16.944Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.944Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:16.945Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.945Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.945Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:16.945Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:17.529Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:17.530Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:17.530Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:17.531Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:17.535Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:17.536Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:17.537Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:17.538Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:17.539Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:17.540Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:17.541Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:17.542Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:17.543Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:17.543Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:17.543Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:17.543Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.124Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:18.125Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:18.125Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:18.126Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:18.131Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.132Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:18.133Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.134Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:18.135Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.135Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:18.136Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.137Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:18.138Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.138Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.138Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.138Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.713Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:18.713Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:18.713Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:18.713Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:18.715Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.715Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:18.716Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.716Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:18.717Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.717Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:18.717Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.718Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:18.718Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.719Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.719Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:18.719Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.298Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:19.298Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:19.299Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:19.299Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:19.304Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.304Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:19.305Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.305Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:19.306Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.306Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:19.307Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.307Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:19.308Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.308Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.308Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.308Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.888Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:19.889Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:19.890Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:19.890Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:19.895Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.895Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:19.897Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.898Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:19.898Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.899Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:19.900Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.900Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:19.901Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.902Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.902Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:19.902Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:20.481Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:20.482Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:20.483Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:20.483Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:20.487Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:20.487Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:20.488Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:20.488Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:20.489Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:20.489Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:20.490Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:20.490Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:20.490Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:20.491Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:20.491Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:20.491Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.073Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:21.073Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:21.074Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:21.074Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:21.076Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.076Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:21.076Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.077Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:21.077Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.078Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:21.078Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.078Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:21.079Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.079Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.079Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.079Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.662Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:21.663Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:21.664Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:21.664Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:21.667Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.667Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:21.668Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.668Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:21.669Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.669Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:21.669Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.670Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:21.671Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.671Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.671Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:21.672Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:22.249Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:22.250Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:22.251Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:22.251Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'socket' -> object with constructor 'Socket'
+    --- property '_httpMessage' closes the circle
+2023-06-13T22:34:22.253Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:22.253Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:22.254Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:22.254Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:22.254Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:22.255Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:34:22.255Z error: Failed to log to custom transport: connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T22:34:22.256Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T22:35:09.248Z info: Server running on port 3200
+2023-06-13T22:35:09.860Z info: Connected to MongoDB
+2023-06-13T22:35:09.862Z info: Scheduling jobs
+2023-06-13T22:35:10.751Z info: No jobs to schedule
+2023-06-13T22:37:39.063Z info: ::1 - - [13/Jun/2023:22:37:39 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "PostmanRuntime/7.32.2"
+2023-06-13T22:37:41.074Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:37:51.043Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:38:01.067Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:38:11.093Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:38:21.107Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:38:31.111Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:38:41.123Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:38:51.147Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:39:01.145Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:39:11.166Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:39:21.180Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:39:31.195Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:39:41.210Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:39:43.147Z info: Server running on port 3200
+2023-06-13T22:39:44.153Z info: Server running on port 3200
+2023-06-13T22:39:44.752Z info: Connected to MongoDB
+2023-06-13T22:39:44.753Z info: Scheduling jobs
+2023-06-13T22:39:45.648Z info: Scheduling job 'test 1123'
+2023-06-13T22:39:53.013Z info: Server running on port 3200
+2023-06-13T22:39:53.608Z info: Connected to MongoDB
+2023-06-13T22:39:53.609Z info: Scheduling jobs
+2023-06-13T22:39:54.485Z info: Scheduling job 'test 1123'
+2023-06-13T22:39:59.377Z info: Server running on port 3200
+2023-06-13T22:39:59.971Z info: Connected to MongoDB
+2023-06-13T22:39:59.972Z info: Scheduling jobs
+2023-06-13T22:40:00.836Z info: Server running on port 3200
+2023-06-13T22:40:01.444Z info: Connected to MongoDB
+2023-06-13T22:40:01.445Z info: Scheduling jobs
+2023-06-13T22:40:02.317Z info: Scheduling job 'test 1123'
+2023-06-13T22:40:10.748Z error: Failed to trigger job 'test 1123':
+2023-06-13T22:40:10.750Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'TLSSocket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle

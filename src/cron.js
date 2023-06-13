@@ -71,22 +71,21 @@ const scheduleJob = (job) => {
 						headers,
 						apiEndpoint,
 						response: response?.data ?? response?.body,
-					}
+					},
 				});
 			})
 			.catch((error) => {
-				logger.error(
-					`Failed to trigger job '${name}':`,
-					{
-						meta: {
-							jobName: name,
-							payload,
-							method,
-							headers,
-							apiEndpoint,
-						},
-					}
-				);
+				const statusCode = error?.response?.status;
+				logger.error(`Failed to trigger job '${name}':`, {
+					meta: {
+						jobName: name,
+						payload,
+						method,
+						headers,
+						apiEndpoint,
+						...(statusCode && { statusCode: error?.response?.status }),
+					},
+				});
 			});
 	});
 
