@@ -63,13 +63,29 @@ const scheduleJob = (job) => {
 			...(payload && method !== "GET" && { data: payload }),
 		})
 			.then((response) => {
-				logger.info(`Job '${name}' triggered successfully!`, response.data);
+				logger.info(`Job '${name}' triggered successfully!`, {
+					meta: {
+						jobName: name,
+						payload,
+						method,
+						headers,
+						apiEndpoint,
+						response: response?.data ?? response?.body,
+					}
+				});
 			})
 			.catch((error) => {
 				logger.error(
 					`Failed to trigger job '${name}':`,
-					// error?.response?.body ?? error?.request?.body ?? "Unknown error, "
-					stringify(error?.request)
+					{
+						meta: {
+							jobName: name,
+							payload,
+							method,
+							headers,
+							apiEndpoint,
+						},
+					}
 				);
 			});
 	});
