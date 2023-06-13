@@ -1,7 +1,6 @@
 const express = require("express");
 const morgan = require("morgan");
 const { connectToDatabase } = require("./db");
-const { scheduleJobs } = require("./cron");
 const router = require("./routes");
 const logger = require("./logger");
 require("dotenv").config();
@@ -17,9 +16,6 @@ connectToDatabase();
 
 // Apply routes
 app.use("/", router);
-
-// Schedule jobs
-scheduleJobs();
 
 // Start the server
 app.listen(port, () => {

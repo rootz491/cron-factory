@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 const logger = require("./logger");
+const { scheduleJobs } = require("./cron");
 require("dotenv").config();
 
 let isConnected = false;
@@ -19,6 +20,10 @@ const connectToDatabase = async () => {
 		.then(() => {
 			isConnected = true;
 			logger.info("Connected to MongoDB");
+		})
+		.then(() => {
+			// Schedule jobs
+			scheduleJobs();
 		})
 		.catch((error) => {
 			isConnected = false;

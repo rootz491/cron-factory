@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+const logger = require("./logger");
 const jobSchema = new mongoose.Schema({
 	name: { type: String, unique: true },
 	type: { type: String },
@@ -28,22 +28,28 @@ const getJob = async ({ jobId, jobName }) => {
 };
 
 const toggleJob = async ({ jobId, jobName, status }) => {
-	if (!jobId && !jobName)
-		throw new Error("jobId or jobName is required, but not provided");
-	if (jobId && jobName)
-		throw new Error("jobId or jobName is required, but not both");
-
-	if (!status) throw new Error("status is required, but not provided");
-
-	if (status && !["active", "inactive"].includes(status))
-		throw new Error("Invalid status provided");
-
-	const job = await getJob({ jobId, jobName });
-	if (!job) throw new Error("Job not found");
-
-	job.status = status;
-	await job.save();
-	return job;
+	try {
+		if (!jobId && !jobName)
+			throw new Error("jobId or jobName is required, but not provided");
+		if (jobId && jobName)
+			throw new Error("jobId or jobName is required, but not both");
+	
+		if (!status) throw new Error("status is required, but not provided");
+	
+		if (status && !["active", "inactive"].includes(status))
+			throw new Error("Invalid status provided");
+	
+		const job = await getJob({ jobId, jobName });
+		if (!job) throw new Error("Job not found");
+	
+		job.status = status;
+	
+		await job.save();
+		return job;
+	} catch (error) {
+		logger.error("Failed to toggle job:", error);
+		return error;
+	}
 };
 
 const getAllJobs = async () => {

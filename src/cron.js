@@ -61,10 +61,10 @@ const scheduleJob = (job) => {
 			...(body && { data: body }),
 		})
 			.then((response) => {
-				logger.info(`Job '${name}' triggered successfully!\n`, response.data);
+				logger.info(`Job '${name}' triggered successfully!`, response.data);
 			})
 			.catch((error) => {
-				logger.error(`Failed to trigger job '${name}':`, error.message);
+				logger.error(`Failed to trigger job '${name}':`, error);
 			});
 	});
 

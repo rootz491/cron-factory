@@ -84,17 +84,19 @@ router.delete("/jobs", apiKeyCheck, async (req, res) => {
 router.delete("/jobs/:name", apiKeyCheck, async (req, res) => {
 	try {
 		const { name } = req.params;
-		const isDeleted = stopJobByName(name);
+		const job = await Job.deleteOne({ name }, { new: true }).exec();
+		if (!job) return res.status(404).send(`Job with name '${name}' not found`);
 
-		if (!isDeleted) {
-			return res.status(404).send("Job not found");
-		} else {
-			const job = await Job.deleteOne({ name }, { new: true }).exec();
-			res.json({
-				message: "Job deleted successfully",
-				job,
-			});
-		}
+		if (job.deletedCount === 0)
+			return res.status(404).send(`Job with name '${name}' not found`);
+
+		const isDeleted = stopJobByName(name);
+		logger.info(`Job '${name}' deleted: ${isDeleted ? "was running" : "wasn't running"}`);
+
+		res.json({
+			message: "Job deleted successfully",
+			job,
+		});
 	} catch (error) {
 		logger.error("Failed to delete job:", error);
 		res.status(500).send("Internal Server Error");
@@ -106,8 +108,22 @@ router.patch("/jobs/:name", apiKeyCheck, async (req, res) => {
 		const { name } = req.params;
 		const { status } = req.body;
 
-		await toggleJob({ jobName: name, status });
+		const job = await toggleJob({ jobName: name, status });
 
+		if (job instanceof Error) {
+			return res.status(404).send(job);
+		}
+
+		if (status === "active") {
+			startJobByName(name);
+		} else {
+			stopJobByName(name);
+		}
+
+		res.json({
+			message: "Job updated successfully",
+			job,
+		});
 	} catch (error) {
 		logger.error("Failed to update job:", error);
 		res.status(500).send("Internal Server Error");
