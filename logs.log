@@ -1359,3 +1359,216 @@
 2023-06-13T16:16:45.886Z info: Stopping all jobs
 2023-06-13T16:16:45.890Z info: ::1 - - [13/Jun/2023:16:16:45 +0000] "DELETE /jobs HTTP/1.1" 200 38 "-" "PostmanRuntime/7.32.2"
 2023-06-13T16:16:56.411Z info: ::1 - - [13/Jun/2023:16:16:56 +0000] "GET /jobs HTTP/1.1" 200 2 "-" "PostmanRuntime/7.32.2"
+2023-06-13T16:23:36.480Z info: Server running on port 3200
+2023-06-13T16:23:37.192Z info: Connected to MongoDB
+2023-06-13T16:23:37.192Z info: Scheduling jobs
+2023-06-13T16:23:38.117Z info: No jobs to schedule
+2023-06-13T16:24:10.750Z info: Server running on port 3200
+2023-06-13T16:24:11.370Z info: Connected to MongoDB
+2023-06-13T16:24:11.370Z info: Scheduling jobs
+2023-06-13T16:24:12.621Z info: No jobs to schedule
+2023-06-13T16:24:18.379Z info: Server running on port 3200
+2023-06-13T16:24:18.998Z info: Connected to MongoDB
+2023-06-13T16:24:18.999Z info: Scheduling jobs
+2023-06-13T16:24:19.987Z info: No jobs to schedule
+2023-06-13T16:24:22.444Z info: Server running on port 3200
+2023-06-13T16:24:23.174Z info: Connected to MongoDB
+2023-06-13T16:24:23.174Z info: Scheduling jobs
+2023-06-13T16:24:24.191Z info: No jobs to schedule
+2023-06-13T16:24:26.989Z info: Server running on port 3200
+2023-06-13T16:24:27.680Z info: Connected to MongoDB
+2023-06-13T16:24:27.681Z info: Scheduling jobs
+2023-06-13T16:24:28.656Z info: No jobs to schedule
+2023-06-13T16:24:55.164Z info: Server running on port 3200
+2023-06-13T16:24:56.019Z info: Connected to MongoDB
+2023-06-13T16:24:56.020Z info: Scheduling jobs
+2023-06-13T16:24:57.802Z info: No jobs to schedule
+2023-06-13T16:25:03.833Z info: Server running on port 3200
+2023-06-13T16:25:04.395Z info: Connected to MongoDB
+2023-06-13T16:25:04.395Z info: Scheduling jobs
+2023-06-13T16:25:05.313Z info: No jobs to schedule
+2023-06-13T16:25:06.393Z info: Server running on port 3200
+2023-06-13T16:25:07.016Z info: Connected to MongoDB
+2023-06-13T16:25:07.016Z info: Scheduling jobs
+2023-06-13T16:25:07.934Z info: No jobs to schedule
+2023-06-13T16:25:08.678Z info: Server running on port 3200
+2023-06-13T16:25:09.304Z info: Connected to MongoDB
+2023-06-13T16:25:09.305Z info: Scheduling jobs
+2023-06-13T16:25:10.231Z info: No jobs to schedule
+2023-06-13T16:25:26.192Z info: Server running on port 3200
+2023-06-13T16:25:27.027Z info: Connected to MongoDB
+2023-06-13T16:25:27.028Z info: Scheduling jobs
+2023-06-13T16:25:28.025Z info: No jobs to schedule
+2023-06-13T16:25:46.189Z info: Server running on port 3200
+2023-06-13T16:25:47.014Z info: Server running on port 3200
+2023-06-13T16:25:48.015Z info: Connected to MongoDB
+2023-06-13T16:25:48.016Z info: Scheduling jobs
+2023-06-13T16:25:48.938Z info: No jobs to schedule
+2023-06-13T16:25:55.281Z info: Server running on port 3200
+2023-06-13T16:25:56.002Z info: Connected to MongoDB
+2023-06-13T16:25:56.003Z info: Scheduling jobs
+2023-06-13T16:25:56.919Z info: No jobs to schedule
+2023-06-13T16:25:58.091Z info: Server running on port 3200
+2023-06-13T16:25:58.761Z info: Connected to MongoDB
+2023-06-13T16:25:58.761Z info: Scheduling jobs
+2023-06-13T16:25:59.674Z info: No jobs to schedule
+2023-06-13T16:26:02.138Z info: Server running on port 3200
+2023-06-13T16:26:02.760Z info: Connected to MongoDB
+2023-06-13T16:26:02.761Z info: Scheduling jobs
+2023-06-13T16:26:04.434Z info: No jobs to schedule
+2023-06-13T16:27:04.077Z info: Server running on port 3200
+2023-06-13T16:27:04.806Z info: Connected to MongoDB
+2023-06-13T16:27:04.807Z info: Scheduling jobs
+2023-06-13T16:27:05.825Z info: No jobs to schedule
+2023-06-13T16:27:09.035Z info: Server running on port 3200
+2023-06-13T16:27:09.653Z info: Connected to MongoDB
+2023-06-13T16:27:09.654Z info: Scheduling jobs
+2023-06-13T16:27:10.154Z info: Server running on port 3200
+2023-06-13T16:27:10.778Z info: Connected to MongoDB
+2023-06-13T16:27:10.778Z info: Scheduling jobs
+2023-06-13T16:27:11.763Z info: No jobs to schedule
+2023-06-13T16:27:51.044Z info: ::1 - - [13/Jun/2023:16:27:51 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "PostmanRuntime/7.32.2"
+2023-06-13T16:27:52.747Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:27:54.740Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:27:56.742Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:27:58.746Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:00.748Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:02.751Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:04.756Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:06.758Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:08.764Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:10.766Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:12.768Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:14.771Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:16.774Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:18.776Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:20.778Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:22.784Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:24.785Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:26.789Z error: Failed to trigger job 'test 4': connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T16:28:28.789Z error: Failed to trigger job 'test 4': connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T16:28:30.799Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:32.795Z error: Failed to trigger job 'test 4': connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T16:28:34.809Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:36.803Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:38.806Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:40.810Z error: Failed to trigger job 'test 4': connect ECONNREFUSED 127.0.0.1:4000
+2023-06-13T16:28:42.827Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:44.823Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:46.825Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:48.829Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:50.830Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:52.832Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:54.839Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:56.840Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:28:58.847Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:00.847Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:02.853Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:04.856Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:06.861Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:08.864Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:10.867Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:12.871Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:14.874Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:16.877Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:18.841Z info: ::1 - - [13/Jun/2023:16:29:18 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "PostmanRuntime/7.32.2"
+2023-06-13T16:29:18.877Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:20.880Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:22.191Z info: ::1 - - [13/Jun/2023:16:29:22 +0000] "GET /jobs HTTP/1.1" 200 516 "-" "PostmanRuntime/7.32.2"
+2023-06-13T16:29:22.886Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:24.509Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:29:24.888Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:26.892Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:28.901Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:30.902Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:32.505Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:29:32.903Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:34.910Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:36.913Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:38.919Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:40.518Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:29:40.922Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:42.925Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:44.929Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:46.932Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:48.531Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:29:48.936Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:50.937Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:52.942Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:54.952Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:56.548Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:29:56.946Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:29:58.952Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:00.552Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:30:00.954Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:02.957Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:04.960Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:06.967Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:08.564Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:30:08.970Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:10.974Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:12.975Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:14.979Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:16.576Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:30:16.983Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:18.985Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:20.988Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:22.992Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:24.588Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:30:24.994Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:26.997Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:28.999Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:32.005Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:32.596Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:30:34.009Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:36.010Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:38.012Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:40.014Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:40.605Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:30:42.019Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:44.022Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:46.024Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:48.028Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:48.620Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:30:50.029Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:52.034Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:54.036Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:56.038Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:30:56.632Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:30:58.040Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:00.044Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:00.638Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:31:02.047Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:04.051Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:06.054Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:08.057Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:08.650Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:31:10.060Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:12.065Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:14.070Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:16.076Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:16.657Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:31:18.077Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:20.085Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:22.085Z info: Job 'test 4' triggered successfully!
+2023-06-13T16:31:22.581Z info: Job 'test 4' stopped successfully
+2023-06-13T16:31:22.585Z info: ::1 - - [13/Jun/2023:16:31:22 +0000] "PATCH /jobs/test%204 HTTP/1.1" 200 303 "-" "PostmanRuntime/7.32.2"
+2023-06-13T16:31:24.667Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:31:32.678Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:31:33.153Z info: Job 'test 4' not found
+2023-06-13T16:31:33.156Z info: ::1 - - [13/Jun/2023:16:31:33 +0000] "PATCH /jobs/test%204 HTTP/1.1" 200 303 "-" "PostmanRuntime/7.32.2"
+2023-06-13T16:31:40.688Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:31:41.571Z error: Failed to toggle job: Job not found
+2023-06-13T16:31:41.574Z info: ::1 - - [13/Jun/2023:16:31:41 +0000] "PATCH /jobs/test%202 HTTP/1.1" 404 2 "-" "PostmanRuntime/7.32.2"
+2023-06-13T16:31:48.698Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:31:56.711Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:32:00.717Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:32:08.729Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:32:16.737Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:32:24.746Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:32:32.758Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:32:40.771Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:32:48.779Z info: Job 'test 1' triggered successfully!
+2023-06-13T16:32:56.703Z info: Job 'test 1' stopped successfully
+2023-06-13T16:32:56.706Z info: ::1 - - [13/Jun/2023:16:32:56 +0000] "PATCH /jobs/test%201 HTTP/1.1" 200 304 "-" "PostmanRuntime/7.32.2"
+2023-06-13T16:33:04.093Z info: ::1 - - [13/Jun/2023:16:33:04 +0000] "GET /jobs HTTP/1.1" 200 520 "-" "PostmanRuntime/7.32.2"

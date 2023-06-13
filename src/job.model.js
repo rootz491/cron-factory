@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 const logger = require("./logger");
+
 const jobSchema = new mongoose.Schema({
 	name: { type: String, unique: true },
 	type: { type: String },
@@ -7,7 +8,7 @@ const jobSchema = new mongoose.Schema({
 	apiEndpoint: { type: String },
 	method: { type: String },
 	headers: { type: Object },
-	body: { type: Object },
+	payload: { type: Object },
 	status: { type: String, default: "active", enum: ["active", "inactive"] },
 });
 

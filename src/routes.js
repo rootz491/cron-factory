@@ -13,7 +13,7 @@ const router = express.Router();
 
 // Endpoint to create a new job
 router.post("/jobs", apiKeyCheck, async (req, res) => {
-	const { name, type, interval, apiEndpoint, method, headers, body } = req.body;
+	const { name, type, interval, apiEndpoint, method, headers, payload } = req.body;
 
 	try {
 		// Check if the job name is unique
@@ -29,7 +29,7 @@ router.post("/jobs", apiKeyCheck, async (req, res) => {
 			apiEndpoint,
 			method,
 			headers,
-			body,
+			payload,
 		});
 
 		if (!isJobScheduled)
@@ -45,7 +45,7 @@ router.post("/jobs", apiKeyCheck, async (req, res) => {
 			apiEndpoint,
 			method,
 			headers,
-			body,
+			payload,
 		});
 
 		if (res) {

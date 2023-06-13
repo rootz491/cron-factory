@@ -6,7 +6,7 @@ const logger = require("./logger");
 let scheduledJobs = [];
 
 const scheduleJob = (job) => {
-	const { name, type, interval, apiEndpoint, method, headers, body } = job;
+	const { name, type, interval, apiEndpoint, method, headers, payload } = job;
 
 	if (!name || !type || !apiEndpoint || !method || !headers) {
 		logger.error("Invalid job data", job);
@@ -57,8 +57,9 @@ const scheduleJob = (job) => {
 	const jobObj = cron.schedule(schedule, () => {
 		axios(apiEndpoint, {
 			method,
+			params: method === "GET" ? payload : undefined,
 			...(headers && { headers }),
-			...(body && { data: body }),
+			...(payload && method !== "GET" && { data: payload }),
 		})
 			.then((response) => {
 				logger.info(`Job '${name}' triggered successfully!`, response.data);
