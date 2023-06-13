@@ -4,8 +4,8 @@ const SHORT_CODES = {
 	today: moment().startOf("day").toISOString(),
 	tommorow: moment().add(1, "day").startOf("day").toISOString(),
 	yesterday: moment().subtract(1, "day").startOf("day").toISOString(),
-	thismonth: moment().startOf("month").toISOString(),
-	lastmonth: moment().subtract(1, "month").startOf("month").toISOString(),
+	"this-month": moment().startOf("month").toISOString(),
+	"last-month": moment().subtract(1, "month").startOf("month").toISOString(),
 	"this-year": moment().startOf("year").toISOString(),
 	"last-year": moment().subtract(1, "year").startOf("year").toISOString(),
 };
@@ -33,8 +33,8 @@ console.log(
 		createdAt: "today",
 		updatedAt: "tommorow",
 		name: "yesterday",
-		age: "thismonth",
-		dob: "lastmonth",
+		age: "this-month",
+		dob: "last-month",
 		doj: "this-year",
 		dol: "last-year",
 	})
