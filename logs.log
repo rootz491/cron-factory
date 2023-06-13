@@ -1611,3 +1611,1663 @@
 2023-06-13T17:42:09.475Z info: Server running on port 3200
 2023-06-13T17:42:10.116Z info: Connected to MongoDB
 2023-06-13T17:42:10.118Z info: Scheduling jobs
+2023-06-13T18:34:20.668Z info: Server running on port 3200
+2023-06-13T18:34:21.277Z info: Connected to MongoDB
+2023-06-13T18:34:21.278Z info: Scheduling jobs
+2023-06-13T18:35:18.342Z info: Server running on port 3200
+2023-06-13T18:35:18.943Z info: Connected to MongoDB
+2023-06-13T18:35:18.944Z info: Scheduling jobs
+2023-06-13T18:35:30.346Z info: Server running on port 3200
+2023-06-13T18:35:31.072Z info: Connected to MongoDB
+2023-06-13T18:35:31.073Z info: Scheduling jobs
+2023-06-13T18:35:32.296Z info: Server running on port 3200
+2023-06-13T18:35:33.023Z info: Connected to MongoDB
+2023-06-13T18:35:33.024Z info: Scheduling jobs
+
+2023-06-13T18:37:32.871Z info: ::ffff:127.0.0.1 - - [13/Jun/2023:18:37:32 +0000] "GET / HTTP/1.1" 404 139 "-" "curl/7.88.1"
+2023-06-13T18:39:31.987Z info: Server running on port 3200
+2023-06-13T18:39:32.617Z info: Connected to MongoDB
+2023-06-13T18:39:32.618Z info: Scheduling jobs
+2023-06-13T18:40:33.933Z info: Server running on port 3200
+2023-06-13T18:40:34.604Z info: Connected to MongoDB
+2023-06-13T18:40:34.605Z info: Scheduling jobs
+2023-06-13T18:40:36.199Z info: Server running on port 3200
+2023-06-13T18:40:36.848Z info: Connected to MongoDB
+2023-06-13T18:40:36.850Z info: Scheduling jobs
+2023-06-13T18:40:37.696Z info: Server running on port 3200
+2023-06-13T18:40:38.343Z info: Connected to MongoDB
+2023-06-13T18:40:38.344Z info: Scheduling jobs
+2023-06-13T18:43:50.818Z info: Server running on port 3200
+2023-06-13T18:43:51.632Z info: Connected to MongoDB
+2023-06-13T18:43:51.634Z info: Scheduling jobs
+2023-06-13T18:44:03.847Z info: ::ffff:127.0.0.1 - - [13/Jun/2023:18:44:03 +0000] "GET /jovs HTTP/1.1" 404 143 "-" "curl/7.88.1"
+2023-06-13T18:44:07.120Z info: ::ffff:127.0.0.1 - - [13/Jun/2023:18:44:07 +0000] "GET /jobs HTTP/1.1" 401 12 "-" "curl/7.88.1"
+2023-06-13T18:44:56.983Z info: ::ffff:127.0.0.1 - - [13/Jun/2023:18:44:56 +0000] "GET /jobs HTTP/1.1" 401 12 "-" "curl/7.88.1"
+2023-06-13T18:45:24.904Z info: Server running on port 3200
+2023-06-13T18:45:25.739Z info: Connected to MongoDB
+2023-06-13T18:45:25.740Z info: Scheduling jobs
+2023-06-13T18:45:34.419Z info: Server running on port 3200
+2023-06-13T18:45:35.085Z info: Connected to MongoDB
+2023-06-13T18:45:35.086Z info: Scheduling jobs
+2023-06-13T18:46:34.288Z info: Server running on port 3200
+2023-06-13T18:46:35.062Z info: Connected to MongoDB
+2023-06-13T18:46:35.063Z info: Scheduling jobs
+2023-06-13T18:55:48.456Z info: Server running on port 3200
+2023-06-13T18:55:49.241Z info: Connected to MongoDB
+2023-06-13T18:55:49.242Z info: Scheduling jobs
+2023-06-13T19:05:52.938Z info: ::ffff:127.0.0.1 - - [13/Jun/2023:19:05:52 +0000] "GET /jobs HTTP/1.1" 401 12 "-" "curl/7.88.1"
+2023-06-13T19:06:55.759Z info: Server running on port 3200
+2023-06-13T19:06:56.543Z info: Connected to MongoDB
+2023-06-13T19:06:56.544Z info: Scheduling jobs
+2023-06-13T19:07:00.352Z info: Server running on port 3200
+2023-06-13T19:07:01.067Z info: Connected to MongoDB
+2023-06-13T19:07:01.068Z info: Scheduling jobs
+2023-06-13T19:08:47.132Z info: ::ffff:127.0.0.1 - - [13/Jun/2023:19:08:47 +0000] "GET /jobs HTTP/1.1" 401 12 "-" "curl/7.88.1"
+2023-06-13T19:08:54.008Z info: ::ffff:127.0.0.1 - - [13/Jun/2023:19:08:54 +0000] "GET /jobs HTTP/1.1" 401 12 "-" "curl/7.88.1"
+2023-06-13T19:13:01.845Z info: Server running on port 3200
+2023-06-13T19:13:02.536Z info: Connected to MongoDB
+2023-06-13T19:13:02.537Z info: Scheduling jobs
+2023-06-13T19:13:26.397Z info: Server running on port 3200
+2023-06-13T19:13:27.111Z info: Connected to MongoDB
+2023-06-13T19:13:27.112Z info: Scheduling jobs
+2023-06-13T19:20:55.341Z info: ::ffff:127.0.0.1 - - [13/Jun/2023:19:20:55 +0000] "GET /jobs HTTP/1.1" 401 12 "-" "curl/7.88.1"
+2023-06-13T19:21:43.751Z info: ::ffff:127.0.0.1 - - [13/Jun/2023:19:21:43 +0000] "GET /jobs HTTP/1.1" 401 12 "-" "curl/7.88.1"
+2023-06-13T19:22:48.917Z info: Server running on port 3200
+2023-06-13T19:22:49.818Z info: Connected to MongoDB
+2023-06-13T19:22:49.820Z info: Scheduling jobs
+2023-06-13T19:24:26.524Z info: ::ffff:127.0.0.1 - - [13/Jun/2023:19:24:26 +0000] "GET /jobs HTTP/1.1" 401 12 "-" "curl/7.88.1"
+2023-06-13T19:33:29.775Z info: Server running on port 3200
+2023-06-13T19:33:30.452Z info: Connected to MongoDB
+2023-06-13T19:33:30.453Z info: Scheduling jobs
+2023-06-13T19:33:35.580Z info: Server running on port 3200
+2023-06-13T19:33:36.305Z info: Connected to MongoDB
+2023-06-13T19:33:36.307Z info: Scheduling jobs
+2023-06-13T19:35:45.398Z info: ::1 - - [13/Jun/2023:19:35:45 +0000] "POST /jobs HTTP/1.1" 400 37 "-" "PostmanRuntime/7.32.2"
+2023-06-13T19:35:50.672Z info: ::1 - - [13/Jun/2023:19:35:50 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "PostmanRuntime/7.32.2"
+2023-06-13T19:35:56.384Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:41:41.737Z info: Server running on port 3200
+2023-06-13T19:41:42.442Z info: Connected to MongoDB
+2023-06-13T19:41:42.444Z info: Scheduling jobs
+2023-06-13T19:41:43.380Z info: Scheduling job 'test 1123'
+2023-06-13T19:41:48.401Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:43:22.393Z info: Server running on port 3200
+2023-06-13T19:43:23.065Z info: Connected to MongoDB
+2023-06-13T19:43:23.066Z info: Scheduling jobs
+2023-06-13T19:43:23.997Z info: Scheduling job 'test 1123'
+2023-06-13T19:43:32.021Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:43:59.187Z info: Server running on port 3200
+2023-06-13T19:43:59.859Z info: Connected to MongoDB
+2023-06-13T19:43:59.860Z info: Scheduling jobs
+2023-06-13T19:44:00.791Z info: Scheduling job 'test 1123'
+2023-06-13T19:44:06.383Z info: Server running on port 3200
+2023-06-13T19:44:07.089Z info: Connected to MongoDB
+2023-06-13T19:44:07.091Z info: Scheduling jobs
+2023-06-13T19:44:08.022Z info: Scheduling job 'test 1123'
+2023-06-13T19:44:11.069Z info: Server running on port 3200
+2023-06-13T19:44:11.787Z info: Connected to MongoDB
+2023-06-13T19:44:11.788Z info: Scheduling jobs
+2023-06-13T19:44:12.788Z info: Server running on port 3200
+2023-06-13T19:44:13.458Z info: Connected to MongoDB
+2023-06-13T19:44:13.460Z info: Scheduling jobs
+2023-06-13T19:44:13.858Z info: Server running on port 3200
+2023-06-13T19:44:14.529Z info: Connected to MongoDB
+2023-06-13T19:44:14.531Z info: Scheduling jobs
+2023-06-13T19:44:15.464Z info: Scheduling job 'test 1123'
+2023-06-13T19:44:16.488Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:44:16.497Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T19:44:19.777Z info: Server running on port 3200
+2023-06-13T19:44:19.780Z error: Failed to log to custom transport: stringify is not defined
+2023-06-13T19:44:20.470Z info: Connected to MongoDB
+2023-06-13T19:44:20.470Z info: Scheduling jobs
+2023-06-13T19:44:21.414Z info: Scheduling job 'test 1123'
+2023-06-13T19:44:23.277Z info: Server running on port 3200
+2023-06-13T19:44:23.280Z error: Failed to log to custom transport: stringify is not defined
+2023-06-13T19:44:23.977Z info: Connected to MongoDB
+2023-06-13T19:44:23.977Z info: Scheduling jobs
+2023-06-13T19:44:24.901Z info: Scheduling job 'test 1123'
+2023-06-13T19:44:29.816Z info: Server running on port 3200
+2023-06-13T19:44:29.819Z error: Failed to log to custom transport: stringify is not defined
+2023-06-13T19:44:30.643Z info: Connected to MongoDB
+2023-06-13T19:44:30.643Z info: Scheduling jobs
+2023-06-13T19:44:31.569Z info: Scheduling job 'test 1123'
+2023-06-13T19:44:32.742Z info: Server running on port 3200
+2023-06-13T19:44:33.409Z info: Connected to MongoDB
+2023-06-13T19:44:33.410Z info: Scheduling jobs
+2023-06-13T19:44:34.339Z info: Scheduling job 'test 1123'
+2023-06-13T19:44:36.948Z info: Server running on port 3200
+2023-06-13T19:44:37.610Z info: Connected to MongoDB
+2023-06-13T19:44:37.611Z info: Scheduling jobs
+2023-06-13T19:44:38.538Z info: Scheduling job 'test 1123'
+2023-06-13T19:44:39.057Z info: Server running on port 3200
+2023-06-13T19:44:39.752Z info: Connected to MongoDB
+2023-06-13T19:44:39.753Z info: Scheduling jobs
+2023-06-13T19:44:40.688Z info: Scheduling job 'test 1123'
+2023-06-13T19:44:48.720Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:44:56.731Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:45:00.741Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:45:08.752Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:45:16.765Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:45:24.775Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:45:32.787Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:45:40.799Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:45:48.814Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:45:56.826Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:46:00.833Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:46:08.847Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:46:16.863Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:46:24.878Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:46:32.889Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:46:40.900Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:46:48.907Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:46:56.916Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:46:59.054Z info: Job 'test 1123' stopped successfully
+2023-06-13T19:46:59.066Z info: ::1 - - [13/Jun/2023:19:46:59 +0000] "PATCH /jobs/test%201123 HTTP/1.1" 200 307 "-" "PostmanRuntime/7.32.2"
+2023-06-13T19:50:05.798Z info: ::1 - - [13/Jun/2023:19:50:05 +0000] "GET /jobs HTTP/1.1" 200 783 "-" "PostmanRuntime/7.32.2"
+2023-06-13T19:50:35.894Z info: ::1 - - [13/Jun/2023:19:50:35 +0000] "PATCH /jobs/test%204 HTTP/1.1" 200 301 "-" "PostmanRuntime/7.32.2"
+2023-06-13T19:50:36.213Z info: Scheduling job 'test 4'
+2023-06-13T19:50:38.246Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:40.241Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:42.241Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:44.242Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:46.249Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:48.254Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:50.260Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:52.258Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:54.263Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:56.267Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:58.280Z error: Failed to trigger job 'test 4': Request failed with status code 401
+2023-06-13T19:50:59.159Z info: Stopping all jobs
+2023-06-13T19:50:59.164Z info: ::1 - - [13/Jun/2023:19:50:59 +0000] "DELETE /jobs HTTP/1.1" 200 38 "-" "PostmanRuntime/7.32.2"
+2023-06-13T19:51:06.306Z info: ::1 - - [13/Jun/2023:19:51:06 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "PostmanRuntime/7.32.2"
+2023-06-13T19:51:08.925Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T19:51:11.236Z info: Stopping all jobs
+2023-06-13T19:51:11.240Z info: ::1 - - [13/Jun/2023:19:51:11 +0000] "DELETE /jobs HTTP/1.1" 200 38 "-" "PostmanRuntime/7.32.2"
+2023-06-13T19:51:19.468Z info: ::1 - - [13/Jun/2023:19:51:19 +0000] "GET /jobs HTTP/1.1" 200 2 "-" "PostmanRuntime/7.32.2"
+2023-06-13T20:38:54.246Z info: Server running on port 3200
+2023-06-13T20:38:54.871Z info: Connected to MongoDB
+2023-06-13T20:38:54.873Z info: Scheduling jobs
+2023-06-13T20:38:55.774Z info: No jobs to schedule
+2023-06-13T20:39:21.225Z info: Server running on port 3200
+2023-06-13T20:39:21.904Z info: Connected to MongoDB
+2023-06-13T20:39:21.906Z info: Scheduling jobs
+2023-06-13T20:39:22.892Z info: No jobs to schedule
+2023-06-13T20:55:54.992Z info: Server running on port 3200
+2023-06-13T20:55:55.602Z info: Connected to MongoDB
+2023-06-13T20:55:55.604Z info: Scheduling jobs
+2023-06-13T20:55:56.498Z info: No jobs to schedule
+2023-06-13T21:00:02.705Z info: Server running on port 3200
+2023-06-13T21:00:03.301Z info: Connected to MongoDB
+2023-06-13T21:00:03.302Z info: Scheduling jobs
+2023-06-13T21:00:04.188Z info: No jobs to schedule
+2023-06-13T21:00:09.949Z info: Server running on port 3200
+2023-06-13T21:00:10.556Z info: Connected to MongoDB
+2023-06-13T21:00:10.558Z info: Scheduling jobs
+2023-06-13T21:00:11.442Z info: No jobs to schedule
+2023-06-13T21:00:18.668Z info: Server running on port 3200
+2023-06-13T21:00:18.684Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.694Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.701Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.713Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.723Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.729Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.735Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.742Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.747Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.753Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.758Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.763Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.769Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.776Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:18.782Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.823Z info: Server running on port 3200
+2023-06-13T21:00:19.839Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.846Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.850Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.856Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.860Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.864Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.869Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.872Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.876Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.881Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.885Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.889Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.893Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.896Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.899Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:19.904Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:20.421Z info: Connected to MongoDB
+2023-06-13T21:00:20.421Z info: Scheduling jobs
+2023-06-13T21:00:21.297Z info: No jobs to schedule
+2023-06-13T21:00:21.594Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.601Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.613Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.625Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.636Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.651Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.654Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.657Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.661Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.665Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.668Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:21.672Z error: Failed to log to custom transport: connect ECONNREFUSED ::1:80
+2023-06-13T21:00:22.323Z info: Server running on port 3200
+2023-06-13T21:00:22.917Z info: Connected to MongoDB
+2023-06-13T21:00:22.919Z info: Scheduling jobs
+2023-06-13T21:00:23.801Z info: No jobs to schedule
+2023-06-13T21:00:24.264Z info: Server running on port 3200
+2023-06-13T21:00:24.867Z info: Connected to MongoDB
+2023-06-13T21:00:24.868Z info: Scheduling jobs
+2023-06-13T21:00:25.747Z info: No jobs to schedule
+2023-06-13T21:00:26.851Z info: Server running on port 3200
+2023-06-13T21:00:27.447Z info: Connected to MongoDB
+2023-06-13T21:00:27.448Z info: Scheduling jobs
+2023-06-13T21:00:28.327Z info: No jobs to schedule
+2023-06-13T21:00:30.270Z info: Server running on port 3200
+2023-06-13T21:00:30.872Z info: Connected to MongoDB
+2023-06-13T21:00:30.873Z info: Scheduling jobs
+2023-06-13T21:00:31.757Z info: No jobs to schedule
+2023-06-13T21:00:35.926Z info: Server running on port 3200
+2023-06-13T21:00:36.535Z info: Connected to MongoDB
+2023-06-13T21:00:36.537Z info: Scheduling jobs
+2023-06-13T21:00:37.417Z info: No jobs to schedule
+2023-06-13T21:00:38.486Z info: Server running on port 3200
+2023-06-13T21:00:39.086Z info: Connected to MongoDB
+2023-06-13T21:00:39.088Z info: Scheduling jobs
+2023-06-13T21:00:39.972Z info: No jobs to schedule
+2023-06-13T21:00:40.615Z info: Server running on port 3200
+2023-06-13T21:00:41.221Z info: Connected to MongoDB
+2023-06-13T21:00:41.223Z info: Scheduling jobs
+2023-06-13T21:00:42.102Z info: No jobs to schedule
+2023-06-13T21:00:43.735Z info: Server running on port 3200
+2023-06-13T21:00:44.347Z info: Connected to MongoDB
+2023-06-13T21:00:44.349Z info: Scheduling jobs
+2023-06-13T21:00:44.910Z info: Server running on port 3200
+2023-06-13T21:00:45.514Z info: Connected to MongoDB
+2023-06-13T21:00:45.515Z info: Scheduling jobs
+2023-06-13T21:00:46.391Z info: No jobs to schedule
+2023-06-13T21:00:47.414Z info: Server running on port 3200
+2023-06-13T21:00:48.016Z info: Connected to MongoDB
+2023-06-13T21:00:48.018Z info: Scheduling jobs
+2023-06-13T21:00:48.722Z info: Server running on port 3200
+2023-06-13T21:00:49.325Z info: Connected to MongoDB
+2023-06-13T21:00:49.326Z info: Scheduling jobs
+2023-06-13T21:00:50.215Z info: No jobs to schedule
+2023-06-13T21:01:53.160Z info: Server running on port 3200
+2023-06-13T21:01:53.819Z info: Connected to MongoDB
+2023-06-13T21:01:53.821Z info: Scheduling jobs
+2023-06-13T21:01:54.702Z info: No jobs to schedule
+2023-06-13T21:03:25.455Z info: ::1 - - [13/Jun/2023:21:03:25 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "PostmanRuntime/7.32.2"
+2023-06-13T21:03:32.173Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T21:03:32.176Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:03:40.181Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T21:03:40.183Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:03:48.193Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T21:03:48.194Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:03:56.203Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T21:03:56.204Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:04:00.217Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T21:04:00.219Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:04:08.225Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T21:04:08.226Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:04:16.236Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T21:04:16.237Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:04:24.245Z error: Failed to trigger job 'test 1123': connect ECONNREFUSED 127.0.0.1:4001
+2023-06-13T21:04:24.246Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:04:30.102Z info: Server running on port 3200
+2023-06-13T21:04:30.711Z info: Connected to MongoDB
+2023-06-13T21:04:30.713Z info: Scheduling jobs
+2023-06-13T21:04:31.295Z info: Server running on port 3200
+2023-06-13T21:04:31.925Z info: Connected to MongoDB
+2023-06-13T21:04:31.927Z info: Scheduling jobs
+2023-06-13T21:04:32.821Z info: Scheduling job 'test 1123'
+2023-06-13T21:04:37.782Z info: Server running on port 3200
+2023-06-13T21:04:37.816Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.823Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.828Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.833Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.838Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.844Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.852Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.860Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.872Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.890Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.924Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:37.983Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:38.092Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:38.309Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:38.555Z info: Connected to MongoDB
+2023-06-13T21:04:38.556Z info: Scheduling jobs
+2023-06-13T21:04:38.568Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:38.756Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:39.447Z info: Scheduling job 'test 1123'
+2023-06-13T21:04:49.704Z info: Server running on port 3200
+2023-06-13T21:04:49.729Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.733Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.736Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.741Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.752Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.759Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.766Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.776Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.790Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.812Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.840Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.893Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:49.996Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:50.197Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:50.428Z info: Connected to MongoDB
+2023-06-13T21:04:50.429Z info: Scheduling jobs
+2023-06-13T21:04:50.443Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:50.601Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:04:51.319Z info: Scheduling job 'test 1123'
+2023-06-13T21:05:26.348Z info: Server running on port 3200
+2023-06-13T21:05:26.394Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.401Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.405Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.411Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.416Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.422Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.428Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.436Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.449Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.467Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.501Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.556Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.663Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:26.867Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:27.126Z info: Connected to MongoDB
+2023-06-13T21:05:27.127Z info: Scheduling jobs
+2023-06-13T21:05:27.143Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:27.301Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:28.013Z info: Scheduling job 'test 1123'
+2023-06-13T21:05:53.882Z info: Server running on port 3200
+2023-06-13T21:05:53.924Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:53.932Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:53.937Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:53.943Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:53.951Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:53.958Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:53.969Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:53.979Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:53.998Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:54.025Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:54.072Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:54.157Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:54.314Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:54.486Z info: Connected to MongoDB
+2023-06-13T21:05:54.487Z info: Scheduling jobs
+2023-06-13T21:05:54.637Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:54.640Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:54.642Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:05:55.379Z info: Scheduling job 'test 1123'
+2023-06-13T21:05:55.901Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.791Z info: Server running on port 3200
+2023-06-13T21:06:50.828Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.834Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.838Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.841Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.845Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.850Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.855Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.861Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.873Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.890Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.922Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:50.977Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:51.079Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:51.283Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:51.523Z info: Connected to MongoDB
+2023-06-13T21:06:51.524Z info: Scheduling jobs
+2023-06-13T21:06:51.539Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:51.699Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:06:52.408Z info: Scheduling job 'test 1123'
+2023-06-13T21:07:50.962Z info: Server running on port 3200
+2023-06-13T21:07:50.996Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.000Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.004Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.007Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.011Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.015Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.020Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.026Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.037Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.054Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.081Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.142Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.244Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.442Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.674Z info: Connected to MongoDB
+2023-06-13T21:07:51.675Z info: Scheduling jobs
+2023-06-13T21:07:51.685Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:51.855Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:07:52.589Z info: Scheduling job 'test 1123'
+2023-06-13T21:08:29.987Z info: Server running on port 3200
+2023-06-13T21:08:30.012Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.015Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.018Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.021Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.024Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.027Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.032Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.038Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.049Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.066Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.095Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.148Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.251Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.456Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:30.713Z info: Connected to MongoDB
+2023-06-13T21:08:31.416Z info: Server running on port 3200
+2023-06-13T21:08:31.440Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.444Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.446Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.449Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.452Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.456Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.460Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.466Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.476Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.491Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.517Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.569Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.664Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:31.860Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:32.092Z info: Connected to MongoDB
+2023-06-13T21:08:32.093Z info: Scheduling jobs
+2023-06-13T21:08:32.103Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:32.249Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:32.971Z info: Scheduling job 'test 1123'
+2023-06-13T21:08:52.271Z info: Server running on port 3200
+2023-06-13T21:08:52.299Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:52.301Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:52.304Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:52.304Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:52.307Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:52.307Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:52.309Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:52.310Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:52.313Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:52.313Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:52.316Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:52.316Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:52.319Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:52.319Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:52.321Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:52.322Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:52.921Z info: Connected to MongoDB
+2023-06-13T21:08:52.921Z info: Scheduling jobs
+2023-06-13T21:08:53.829Z info: Scheduling job 'test 1123'
+2023-06-13T21:08:54.125Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:54.126Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:54.133Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:54.134Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:54.135Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:54.136Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:54.137Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:54.138Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:54.139Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:54.139Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:54.141Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:54.141Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:54.142Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:54.142Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:54.143Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:54.143Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.327Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:55.328Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:55.328Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:55.328Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:55.333Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.333Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:55.334Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.335Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:55.336Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.336Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:55.337Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.338Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:55.338Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.339Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.339Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.339Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.907Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:55.908Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:55.908Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:55.908Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:55.910Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.911Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:55.911Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.912Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:55.912Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.912Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:55.913Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.913Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:55.914Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.914Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.916Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:55.916Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:56.516Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:56.517Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:56.518Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:56.518Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:56.523Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:56.524Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:56.525Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:56.526Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:56.527Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:56.528Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:56.529Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:56.530Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:56.531Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:56.532Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:56.532Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:56.533Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:56.838Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:08:57.208Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:57.208Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:57.209Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:57.209Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:57.211Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.211Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:57.212Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.212Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:57.213Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.213Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:57.214Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.214Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:57.215Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.217Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.218Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.218Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.787Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:57.787Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:57.789Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:57.789Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:57.792Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.793Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:57.794Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.794Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:57.797Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.798Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:57.798Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.799Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:57.802Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.804Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.804Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:57.806Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:58.457Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:58.457Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:58.457Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:58.457Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:58.459Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:58.459Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:58.460Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:58.460Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:58.462Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:58.463Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:58.464Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:58.465Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:58.467Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:58.467Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:58.471Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:58.472Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.036Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:59.037Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:59.037Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:59.037Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:59.040Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.040Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:59.041Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.041Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:59.042Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.042Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:59.042Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.043Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:59.043Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.043Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.044Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.044Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.613Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:59.613Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:59.614Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:59.614Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:08:59.620Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.620Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:59.621Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.621Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:59.622Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.622Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:59.623Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.623Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:08:59.623Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.623Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.624Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:08:59.625Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.305Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:00.306Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:00.307Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:00.308Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:00.311Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.312Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:00.313Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.314Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:00.315Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.315Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:00.316Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.317Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:00.317Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.318Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.319Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.320Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.846Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:09:00.894Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:00.894Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:00.894Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:00.895Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:00.899Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.900Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:00.901Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.901Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:00.902Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.902Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:00.903Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.903Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.903Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.904Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.905Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:00.905Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:01.534Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:01.535Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:01.535Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:01.536Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:01.536Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:01.537Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:01.542Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:01.542Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:01.543Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:01.544Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:01.545Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:01.545Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:01.545Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:01.546Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:01.547Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:01.548Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.232Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.233Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.234Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.235Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.236Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.236Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.239Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.240Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:02.241Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.241Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:02.242Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.243Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.244Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.246Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.246Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.247Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.864Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.867Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.867Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.868Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.868Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.869Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:02.872Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.873Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:02.874Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.874Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:02.875Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.875Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.876Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.877Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.878Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:02.879Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:03.562Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:03.563Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:03.564Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:03.565Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:03.567Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:03.568Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:03.571Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:03.572Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:03.573Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:03.573Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:03.574Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:03.575Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:03.576Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:03.577Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:03.578Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:03.579Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.150Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.151Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.152Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.152Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.153Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.155Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.158Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.159Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:04.160Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.160Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:04.161Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.162Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.163Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.164Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.165Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.168Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.796Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.797Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.798Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.799Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.799Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.800Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:04.805Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.805Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:04.807Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.807Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:04.808Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.809Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.809Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.810Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.811Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:04.812Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:05.383Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:05.384Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:05.385Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:05.385Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:05.386Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:05.386Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:05.391Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:05.391Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:05.392Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:05.392Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:05.393Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:05.395Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:05.396Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:05.397Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:05.397Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:05.398Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.041Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.042Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.043Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.043Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.044Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.045Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.049Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.050Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:06.051Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.051Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:06.052Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.053Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.053Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.053Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.054Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.057Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.717Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.718Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.719Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.720Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.720Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.721Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:06.726Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.727Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:06.728Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.729Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:06.729Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.730Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.730Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.732Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.733Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:06.734Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.307Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.308Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.309Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.309Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.310Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.310Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.315Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.316Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:07.317Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.317Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:07.318Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.318Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.319Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.320Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.320Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.321Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.981Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.982Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.982Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.983Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.983Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.984Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:07.988Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.988Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:07.989Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.989Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:07.990Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.990Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.991Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.992Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.992Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:07.993Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:08.568Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:08.569Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:08.570Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:08.571Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:08.572Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:08.575Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:08.581Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:08.581Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:08.582Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:08.583Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:08.583Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:08.584Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:08.584Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:08.584Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:08.586Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:08.587Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:08.860Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:09:09.216Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.216Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.217Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.217Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.217Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.218Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.222Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:09.222Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:09.224Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:09.224Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:09.224Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:09.226Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:09.230Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:09.230Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:09.233Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:09.236Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:09.912Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.913Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.913Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.913Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.914Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.914Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'ClientRequest'
+    |     property 'res' -> object with constructor 'IncomingMessage'
+    --- property 'req' closes the circle
+2023-06-13T21:09:09.918Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:09.918Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+2023-06-13T21:09:09.920Z error: Failed to log to custom transport: Request failed with status code 500
+2023-06-13T21:09:54.833Z info: Server running on port 3200
+2023-06-13T21:09:55.512Z info: Connected to MongoDB
+2023-06-13T21:09:55.514Z info: Scheduling jobs
+2023-06-13T21:09:56.407Z info: Scheduling job 'test 1123'
+2023-06-13T21:09:56.416Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:10:00.420Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:10:08.435Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:10:16.442Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:10:18.408Z info: Server running on port 3200
+2023-06-13T21:10:19.017Z info: Connected to MongoDB
+2023-06-13T21:10:19.019Z info: Scheduling jobs
+2023-06-13T21:10:19.939Z info: Scheduling job 'test 1123'
+2023-06-13T21:10:24.955Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:10:30.231Z info: Server running on port 3200
+2023-06-13T21:10:30.941Z info: Connected to MongoDB
+2023-06-13T21:10:30.943Z info: Scheduling jobs
+2023-06-13T21:10:31.823Z info: Scheduling job 'test 1123'
+2023-06-13T21:10:32.836Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:10:37.485Z info: Server running on port 3200
+2023-06-13T21:10:38.099Z info: Connected to MongoDB
+2023-06-13T21:10:38.101Z info: Scheduling jobs
+2023-06-13T21:10:39.091Z info: Scheduling job 'test 1123'
+2023-06-13T21:10:40.114Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:10:48.117Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:10:56.132Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:12:21.254Z info: Server running on port 3200
+2023-06-13T21:12:21.946Z info: Connected to MongoDB
+2023-06-13T21:12:21.948Z info: Scheduling jobs
+2023-06-13T21:12:22.937Z info: Scheduling job 'test 1123'
+2023-06-13T21:12:24.953Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:12:32.960Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:12:33.735Z info: Server running on port 3200
+2023-06-13T21:12:34.427Z info: Connected to MongoDB
+2023-06-13T21:12:34.428Z info: Scheduling jobs
+2023-06-13T21:12:35.311Z info: Scheduling job 'test 1123'
+2023-06-13T21:12:40.347Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:21:21.049Z info: Server running on port 3200
+2023-06-13T21:21:21.758Z info: Connected to MongoDB
+2023-06-13T21:21:21.760Z info: Scheduling jobs
+2023-06-13T21:21:22.745Z info: Scheduling job 'test 1123'
+2023-06-13T21:21:24.762Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:21:24.765Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:21:32.773Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:21:32.774Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:21:40.788Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:21:40.790Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:21:48.798Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:21:48.798Z error: Failed to log to custom transport: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_httpMessage' -> object with constructor 'ClientRequest'
+    --- property 'socket' closes the circle
+2023-06-13T21:21:50.092Z info: Server running on port 3200
+2023-06-13T21:21:50.693Z info: Connected to MongoDB
+2023-06-13T21:21:50.694Z info: Scheduling jobs
+2023-06-13T21:21:51.572Z info: Scheduling job 'test 1123'
+2023-06-13T21:21:52.342Z info: Server running on port 3200
+2023-06-13T21:21:52.952Z info: Connected to MongoDB
+2023-06-13T21:21:52.953Z info: Scheduling jobs
+2023-06-13T21:21:53.868Z info: Scheduling job 'test 1123'
+2023-06-13T21:21:56.879Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:22:00.887Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:22:08.901Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:22:17.215Z info: Server running on port 3200
+2023-06-13T21:22:17.816Z info: Connected to MongoDB
+2023-06-13T21:22:17.817Z info: Scheduling jobs
+2023-06-13T21:22:18.698Z info: Scheduling job 'test 1123'
+2023-06-13T21:22:24.716Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:22:32.727Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:22:40.737Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:22:48.223Z info: Server running on port 3200
+2023-06-13T21:22:48.893Z info: Connected to MongoDB
+2023-06-13T21:22:48.894Z info: Scheduling jobs
+2023-06-13T21:22:49.880Z info: Scheduling job 'test 1123'
+2023-06-13T21:22:52.812Z info: Server running on port 3200
+2023-06-13T21:22:53.418Z info: Connected to MongoDB
+2023-06-13T21:22:53.419Z info: Scheduling jobs
+2023-06-13T21:22:54.300Z info: Scheduling job 'test 1123'
+2023-06-13T21:22:55.418Z info: Server running on port 3200
+2023-06-13T21:22:56.061Z info: Connected to MongoDB
+2023-06-13T21:22:56.062Z info: Scheduling jobs
+2023-06-13T21:22:56.785Z info: Server running on port 3200
+2023-06-13T21:22:57.490Z info: Connected to MongoDB
+2023-06-13T21:22:57.491Z info: Scheduling jobs
+2023-06-13T21:22:58.374Z info: Scheduling job 'test 1123'
+2023-06-13T21:23:00.387Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:23:04.934Z info: Server running on port 3200
+2023-06-13T21:23:05.593Z info: Connected to MongoDB
+2023-06-13T21:23:05.595Z info: Scheduling jobs
+2023-06-13T21:23:06.490Z info: Scheduling job 'test 1123'
+2023-06-13T21:23:08.504Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:23:16.518Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:23:24.530Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:23:28.326Z info: Server running on port 3200
+2023-06-13T21:23:28.926Z info: Connected to MongoDB
+2023-06-13T21:23:28.927Z info: Scheduling jobs
+2023-06-13T21:23:29.919Z info: Scheduling job 'test 1123'
+2023-06-13T21:23:32.929Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:23:40.943Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:23:48.956Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:23:56.971Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:24:00.979Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:24:08.988Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:24:16.999Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:24:24.011Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:24:32.021Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:24:40.031Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:24:48.041Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:24:56.054Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:25:00.058Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:25:08.069Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:25:16.079Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:25:24.090Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:25:32.101Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:25:40.114Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:25:48.129Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:25:56.142Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:26:00.149Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:26:08.155Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:26:16.165Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:26:24.177Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:26:32.190Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:26:40.202Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:26:48.212Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:26:56.222Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:27:00.231Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:27:08.243Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:27:16.258Z error: Failed to trigger job 'test 1123':
+2023-06-13T21:27:17.735Z info: Stopping all jobs
+2023-06-13T21:27:17.747Z info: ::1 - - [13/Jun/2023:21:27:17 +0000] "DELETE /jobs HTTP/1.1" 200 38 "-" "PostmanRuntime/7.32.2"

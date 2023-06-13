@@ -2,6 +2,7 @@ const winston = require("winston");
 const { createLogger, format, transports } = winston;
 const { combine, timestamp, printf } = format;
 const WinstonMongoDB = require("winston-mongodb");
+const { default: axios } = require("axios");
 require("dotenv").config();
 
 const LOG_MONGO_URI = process.env.LOGS_MONGO_URI;
@@ -15,6 +16,33 @@ const LOG_SERVER_API_KEY = process.env.LOGGER_SERVER_API_KEY;
 const logFormat = printf(({ level, message, timestamp }) => {
 	return `${timestamp} ${level}: ${message}`;
 });
+
+class CustomTransport extends winston.Transport {
+	constructor(opts) {
+		super(opts);
+		if (!opts.url) throw Error("URL not provided");
+		this.url = opts.url;
+	}
+	log(info, callback) {
+		try {
+			setImmediate(() => {
+				this.emit("logged", info);
+			});
+			axios
+				.post(this.url, info, {
+					headers: {
+						[LOG_SERVER_SECRET_HEADER]: LOG_SERVER_API_KEY,
+					},
+				})
+				.catch((error) => {
+					logger.error("Failed to log to custom transport:", error);
+				});
+			callback();
+		} catch (error) {
+			logger.error("Failed to log to custom transport:", error);
+		}
+	}
+}
 
 const logger = createLogger({
 	format: combine(timestamp(), logFormat),
@@ -36,19 +64,8 @@ const logger = createLogger({
 					format: combine(timestamp(), logFormat),
 			  })
 			: null,
-		// https://github.com/winstonjs/winston/blob/master/docs/transports.md#http-transport
-		new winston.transports.Http({
-			level: "info",
-			format: combine(timestamp(), logFormat),
-			host: LOG_SERVER_HOST,
-			port: LOG_SERVER_PORT,
-			path: LOG_SERVER_API_ENDPOINT,
-			headers: {
-				"Content-Type": "application/json",
-				[LOG_SERVER_SECRET_HEADER]: LOG_SERVER_API_KEY,
-			},
-			handleExceptions: true,
-			handleRejections: true,
+		new CustomTransport({
+			url: `${LOG_SERVER_HOST}:${LOG_SERVER_PORT}${LOG_SERVER_API_ENDPOINT}`,
 		}),
 	].filter((transport) => transport !== null),
 });

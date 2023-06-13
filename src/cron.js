@@ -1,5 +1,6 @@
 const cron = require("node-cron");
 const axios = require("axios");
+const { stringify } = require("flatted");
 const { createJob, getAllJobs, getJob, toggleJob } = require("./job.model");
 const logger = require("./logger");
 
@@ -65,7 +66,11 @@ const scheduleJob = (job) => {
 				logger.info(`Job '${name}' triggered successfully!`, response.data);
 			})
 			.catch((error) => {
-				logger.error(`Failed to trigger job '${name}':`, error);
+				logger.error(
+					`Failed to trigger job '${name}':`,
+					// error?.response?.body ?? error?.request?.body ?? "Unknown error, "
+					stringify(error?.request)
+				);
 			});
 	});
 
@@ -126,7 +131,7 @@ const startJobByName = async (name) => {
 	// Check if the job is already scheduled
 	const jobObj = scheduledJobs.find((job) => job.name === name);
 	if (jobObj) {
-		logger.info(`Job '${name}' is already scheduled`);
+		logger.error(`Job '${name}' is already scheduled`);
 		return true;
 	}
 

@@ -56,3 +56,7 @@
   - https://github.com/winstonjs/winston/issues/1160
 
   - Possible Solution: Create a custom transport for HTTP requests.
+
+- While storing whole response in case of trigger failure, getting circular JSON error.
+  - [explaination](https://stackoverflow.com/questions/64735881/typeerror-converting-circular-structure-to-json-starting-at-object-with-constr)
+  - possible solution: [flatted](https://www.npmjs.com/package/flatted)
