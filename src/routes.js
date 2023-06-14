@@ -14,7 +14,9 @@ const router = express.Router();
 
 // Endpoint to create a new job
 router.post("/jobs", apiKeyCheck, async (req, res) => {
-	const { name, type, interval, apiEndpoint, method, headers, payload } = req.body;
+	console.log("post");
+	const { name, type, interval, apiEndpoint, method, headers, payload } =
+		req.body;
 
 	try {
 		// Check if the job name is unique
@@ -71,11 +73,12 @@ router.get("/jobs", apiKeyCheck, async (req, res) => {
 
 router.delete("/jobs", apiKeyCheck, async (req, res) => {
 	try {
-		const jobs = await Job.deleteMany();
-
-		stopAllJobs();
-
-		res.json(jobs);
+		// const jobs = await Job.deleteMany();
+		// stopAllJobs();
+		// res.json(jobs);
+		res.json({
+			message: "API is disabled for now",
+		});
 	} catch (error) {
 		logger.error("Failed to delete jobs:", error);
 		res.status(500).send("Internal Server Error");
@@ -92,7 +95,9 @@ router.delete("/jobs/:name", apiKeyCheck, async (req, res) => {
 			return res.status(404).send(`Job with name '${name}' not found`);
 
 		const isDeleted = stopJobByName(name);
-		logger.info(`Job '${name}' deleted: ${isDeleted ? "was running" : "wasn't running"}`);
+		logger.info(
+			`Job '${name}' deleted: ${isDeleted ? "was running" : "wasn't running"}`
+		);
 
 		res.json({
 			message: "Job deleted successfully",

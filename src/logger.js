@@ -34,8 +34,10 @@ class CustomTransport extends winston.Transport {
 						[LOG_SERVER_SECRET_HEADER]: LOG_SERVER_API_KEY,
 					},
 				})
-				.catch((error) => {
-					logger.error("Failed to log to custom transport:", error);
+				.catch((_) => {
+					console.log(
+						"WARNING: Logger server is not running or is not reachable"
+					);
 				});
 			callback();
 		} catch (error) {
