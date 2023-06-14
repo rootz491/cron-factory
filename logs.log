@@ -5068,3 +5068,52 @@
 2023-06-14T17:22:47.149Z info: Connected to MongoDB
 2023-06-14T17:22:47.151Z info: Scheduling jobs
 2023-06-14T17:22:48.032Z info: No jobs to schedule
+2023-06-14T17:23:28.383Z info: Server running on port 3200
+2023-06-14T17:23:29.010Z info: Connected to MongoDB
+2023-06-14T17:23:29.012Z info: Scheduling jobs
+2023-06-14T17:23:29.883Z info: No jobs to schedule
+2023-06-14T17:36:50.831Z info: ::1 - - [14/Jun/2023:17:36:50 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "axios/1.4.0"
+2023-06-14T17:37:01.123Z info: Job 'test' triggered successfully!
+2023-06-14T17:37:13.051Z info: Job 'test' triggered successfully!
+2023-06-14T17:37:25.082Z info: Job 'test' triggered successfully!
+2023-06-14T17:37:36.522Z info: ::1 - - [14/Jun/2023:17:37:36 +0000] "POST /jobs HTTP/1.1" 400 37 "-" "axios/1.4.0"
+2023-06-14T17:37:37.072Z info: Job 'test' triggered successfully!
+2023-06-14T17:37:49.091Z info: Job 'test' triggered successfully!
+2023-06-14T17:37:57.589Z info: ::1 - - [14/Jun/2023:17:37:57 +0000] "POST /jobs HTTP/1.1" 400 37 "-" "axios/1.4.0"
+2023-06-14T17:38:01.140Z info: Job 'test' triggered successfully!
+2023-06-14T17:38:13.162Z info: Job 'test' triggered successfully!
+2023-06-14T17:38:14.577Z info: ::1 - - [14/Jun/2023:17:38:14 +0000] "POST /jobs HTTP/1.1" 400 37 "-" "axios/1.4.0"
+2023-06-14T17:38:25.182Z info: Job 'test' triggered successfully!
+2023-06-14T17:38:37.184Z info: Job 'test' triggered successfully!
+2023-06-14T17:38:47.198Z info: ::1 - - [14/Jun/2023:17:38:47 +0000] "POST /jobs HTTP/1.1" 400 37 "-" "axios/1.4.0"
+2023-06-14T17:38:49.203Z info: Job 'test' triggered successfully!
+2023-06-14T17:38:53.079Z info: ::1 - - [14/Jun/2023:17:38:53 +0000] "POST /jobs HTTP/1.1" 201 24 "-" "axios/1.4.0"
+2023-06-14T17:38:57.798Z info: ::1 - - [14/Jun/2023:17:38:57 +0000] "GET /jobs HTTP/1.1" 200 477 "-" "axios/1.4.0"
+2023-06-14T17:39:01.221Z info: Job 'test' triggered successfully!
+2023-06-14T17:39:01.227Z info: Job 'test 2' triggered successfully!
+2023-06-14T17:39:09.324Z error: Failed to toggle job: Job not found
+2023-06-14T17:39:09.327Z info: ::1 - - [14/Jun/2023:17:39:09 +0000] "PATCH /jobs/21 HTTP/1.1" 404 2 "-" "axios/1.4.0"
+2023-06-14T17:39:12.736Z error: Job 'test' is already scheduled
+2023-06-14T17:39:12.739Z info: ::1 - - [14/Jun/2023:17:39:12 +0000] "PATCH /jobs/test HTTP/1.1" 200 281 "-" "axios/1.4.0"
+2023-06-14T17:39:13.227Z info: Job 'test' triggered successfully!
+2023-06-14T17:39:13.230Z info: Job 'test 2' triggered successfully!
+2023-06-14T17:39:22.593Z info: Job 'test' stopped successfully
+2023-06-14T17:39:22.598Z info: ::1 - - [14/Jun/2023:17:39:22 +0000] "PATCH /jobs/test HTTP/1.1" 200 283 "-" "axios/1.4.0"
+2023-06-14T17:39:25.251Z info: Job 'test 2' triggered successfully!
+2023-06-14T17:39:37.271Z info: Job 'test 2' triggered successfully!
+2023-06-14T17:39:38.284Z info: ::1 - - [14/Jun/2023:17:39:38 +0000] "GET /jobs HTTP/1.1" 200 479 "-" "axios/1.4.0"
+2023-06-14T17:39:49.304Z info: Job 'test 2' triggered successfully!
+2023-06-14T17:39:51.029Z info: Job 'test 2' stopped successfully
+2023-06-14T17:39:51.032Z info: ::1 - - [14/Jun/2023:17:39:51 +0000] "PATCH /jobs/test%202 HTTP/1.1" 200 285 "-" "axios/1.4.0"
+2023-06-14T17:40:00.979Z info: ::1 - - [14/Jun/2023:17:40:00 +0000] "DELETE /jobs HTTP/1.1" 200 37 "-" "axios/1.4.0"
+2023-06-14T17:40:06.337Z info: Job 'test' not found
+2023-06-14T17:40:06.338Z info: Job 'test' deleted: wasn't running
+2023-06-14T17:40:06.339Z info: ::1 - - [14/Jun/2023:17:40:06 +0000] "DELETE /jobs/test HTTP/1.1" 200 83 "-" "axios/1.4.0"
+2023-06-14T17:40:10.322Z info: ::1 - - [14/Jun/2023:17:40:10 +0000] "DELETE /jobs/test HTTP/1.1" 404 30 "-" "axios/1.4.0"
+2023-06-14T17:40:16.301Z info: ::1 - - [14/Jun/2023:17:40:16 +0000] "GET /jobs HTTP/1.1" 200 242 "-" "axios/1.4.0"
+2023-06-14T17:41:10.385Z info: ::1 - - [14/Jun/2023:17:41:10 +0000] "GET /jobs HTTP/1.1" 200 242 "-" "axios/1.4.0"
+2023-06-14T17:41:14.194Z info: ::1 - - [14/Jun/2023:17:41:14 +0000] "DELETE /jobs HTTP/1.1" 200 37 "-" "axios/1.4.0"
+2023-06-14T17:41:17.159Z info: ::1 - - [14/Jun/2023:17:41:17 +0000] "DELETE /jobs/test HTTP/1.1" 404 30 "-" "axios/1.4.0"
+2023-06-14T17:41:20.084Z info: ::1 - - [14/Jun/2023:17:41:20 +0000] "POST /jobs HTTP/1.1" 400 37 "-" "axios/1.4.0"
+2023-06-14T17:41:23.359Z info: Job 'test 2' not found
+2023-06-14T17:41:23.361Z info: ::1 - - [14/Jun/2023:17:41:23 +0000] "PATCH /jobs/test%202 HTTP/1.1" 200 285 "-" "axios/1.4.0"

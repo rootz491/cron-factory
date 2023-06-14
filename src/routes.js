@@ -14,7 +14,6 @@ const router = express.Router();
 
 // Endpoint to create a new job
 router.post("/jobs", apiKeyCheck, async (req, res) => {
-	console.log("post");
 	const { name, type, interval, apiEndpoint, method, headers, payload } =
 		req.body;
 
