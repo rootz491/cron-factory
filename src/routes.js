@@ -1,6 +1,6 @@
 const express = require("express");
 const { apiKeyCheck } = require("./middleware");
-const { createJob, getAllJobs, Job, toggleJob } = require("./job.model");
+const { createJob, getAllJobs, Job, toggleJob, getJob } = require("./job.model");
 const logger = require("./logger");
 const {
 	scheduleJob,
@@ -66,6 +66,18 @@ router.get("/jobs", apiKeyCheck, async (req, res) => {
 		res.json(jobs);
 	} catch (error) {
 		logger.error("Failed to get jobs:", error);
+		res.status(500).send("Internal Server Error");
+	}
+});
+
+router.get('/jobs/:name', apiKeyCheck, async (req, res) => {
+	try {
+		const { name } = req.params;
+		const job = await getJob({ jobName: name });
+		if (!job) return res.status(404).send(`Job with name '${name}' not found`);
+		res.json(job);
+	} catch (error) {
+		logger.error("Failed to get job:", error);
 		res.status(500).send("Internal Server Error");
 	}
 });

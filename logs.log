@@ -5117,3 +5117,21 @@
 2023-06-14T17:41:20.084Z info: ::1 - - [14/Jun/2023:17:41:20 +0000] "POST /jobs HTTP/1.1" 400 37 "-" "axios/1.4.0"
 2023-06-14T17:41:23.359Z info: Job 'test 2' not found
 2023-06-14T17:41:23.361Z info: ::1 - - [14/Jun/2023:17:41:23 +0000] "PATCH /jobs/test%202 HTTP/1.1" 200 285 "-" "axios/1.4.0"
+2023-07-25T16:10:39.802Z info: Server running on port 3200
+2023-07-25T16:10:48.969Z info: Connected to MongoDB
+2023-07-25T16:10:48.973Z info: Scheduling jobs
+2023-07-25T16:10:49.878Z info: Scheduling job 'njjn'
+2023-07-25T16:10:49.880Z error: Invalid job data
+2023-07-25T16:10:49.881Z info: Scheduling job 'sdad'
+2023-07-25T16:10:49.882Z error: Invalid job data
+2023-07-25T16:10:49.883Z info: Scheduling job 'nikhil'
+2023-07-25T16:12:56.670Z info: ::1 - - [25/Jul/2023:16:12:56 +0000] "GET /jobs/test HTTP/1.1" 404 30 "-" "axios/1.4.0"
+2023-07-25T16:13:06.590Z info: ::1 - - [25/Jul/2023:16:13:06 +0000] "GET /jobs/test%202 HTTP/1.1" 200 240 "-" "axios/1.4.0"
+2023-07-25T16:15:10.706Z info: Server running on port 3200
+2023-07-25T16:15:11.371Z info: Connected to MongoDB
+2023-07-25T16:15:11.374Z info: Scheduling jobs
+2023-07-25T16:15:12.350Z info: Scheduling job 'njjn'
+2023-07-25T16:15:12.351Z error: Invalid job data
+2023-07-25T16:15:12.353Z info: Scheduling job 'sdad'
+2023-07-25T16:15:12.354Z error: Invalid job data
+2023-07-25T16:15:12.355Z info: Scheduling job 'nikhil'
